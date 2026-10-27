@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bitcoin.de is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://bitcoin.de/
+Bitcoin.de is a German cryptocurrency exchange and marketplace offering buying, selling, and trading of Bitcoin and other digital assets. It provides a platform for users to manage crypto portfolios, access price data, and utilize P2P trading services. The company operates under regulatory oversight in Germany and aims to make cryptocurrency accessible to a broad audience.
+
+**Areas:** Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.bitcoin.de/)
+- [Documentation](https://www.bitcoin.de/de/api/tapi/doc)
+- [Support](https://www.bitcoin.de/de/kontakt)
+- [Blog](https://www.bitcoin.de/de/presse)
+- [Security](https://www.bitcoin.de/de/bug-bounty)
+- [Terms of service](https://www.bitcoin.de/de/agb)
+- [Privacy policy](https://www.bitcoin.de/de/datenschutzerklaerung)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/bitcoin-de/](https://apis.io/providers/bitcoin-de/).
